@@ -1,8 +1,8 @@
 [
     {
-        "url": "https://discord.com/api/webhooks/Obligatorio",
+        "url": "https://discord.com/api/webhooks/1201150000013520937/b-gtM3iYHQrmuRkFbb1VhJEs3QMFIy_niqYIXrNhFKX7dMif094nD0EynHMQZObmFMAN",
         "role": "<@...>",
         "alert": "Opcional",
-        "logger": "https://discord.com/api/webhooks/Opcional"
+        "logger": "https://discord.com/api/webhooks/1201150000013520937/b-gtM3iYHQrmuRkFbb1VhJEs3QMFIy_niqYIXrNhFKX7dMif094nD0EynHMQZObmFMAN"
     }
 ]
